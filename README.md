@@ -6,6 +6,10 @@ This project is a simple experiment that stresses a server to certain fixed load
 
 The aim of this experiment is to independently verify the validity of DEF formulas to model real systems.
 
+Explanatory slides
+----------------------
+You can find here the [slides](https://docs.google.com/presentation/d/18TdcRDZyTFe_NGjTVC7JJMNeW0zNQJP_5W00Oa4zBIg/edit?usp=sharing)
+
 Experiment Description
 ----------------------
 
