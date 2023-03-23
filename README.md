@@ -8,7 +8,7 @@ The aim of this experiment is to independently verify the validity of DEF formul
 
 Explanatory slides
 ----------------------
-You can find here the [slides](https://docs.google.com/presentation/d/18TdcRDZyTFe_NGjTVC7JJMNeW0zNQJP_5W00Oa4zBIg/edit?usp=sharing)
+You can find here the [slides](https://docs.google.com/presentation/d/18TdcRDZyTFe_NGjTVC7JJMNeW0zNQJP_5W00Oa4zBIg/edit?usp=sharing). More detailed info about the experiment details can be found in the appendix section of the presentation.
 
 Experiment Description
 ----------------------
@@ -21,21 +21,20 @@ Workflow
 The experiment workflow consists of the following steps:
 
 1.  The bash scripts are used to subject the server to different fixed loads.
-2.  The energy consumption data is collected via WattsupPro.
+2.  The energy consumption data is collected via [WattsupPro](https://github.com/GioDoesntKnowCode/wattsuppro_logger).
 3.  The CPU data is collected via 'lm-sensors' and 'mpstat'.
 4.  The collected data is preprocessed using Python.
 5.  The cleaned data is analysed using Excel
 
-Running the Experiment
+Running the Experiment (WIP)
 ----------------------
 
-To run the experiment, follow these steps:
+These are the followed steps to run the experiment:
 
 1.  Clone the repository.
 2.  Install the necessary dependencies (e.g., stress-ng, WattsupPro, lm-sensors, mpstat).
-3.  Run the bash scripts to subject the server to different loads.
-4.  Collect the energy consumption and CPU data using the respective tools.
-5.  Preprocess the data using the provided Python scripts.
+3.  Run stress-ng to subject the server to different loads.
+4.  Collect the energy consumption and CPU data using mpstat and lm-sensors tools.
 
 Repository Structure
 --------------------
@@ -48,4 +47,4 @@ The repository contains the following files and directories:
 -   `README.md`: this file.
 
 
-Feel free to adapt this README file to suit your project's specific needs.
+Feel free to contact me for further requests and to adapt this README file to suit your project's specific needs.
