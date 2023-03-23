@@ -1,0 +1,33 @@
+stress-ng: info:  [330900] setting to a 10 second run per stressor
+stress-ng: info:  [330900] dispatching hogs: 8 cpu
+stress-ng: info:  [330900] successful run completed in 10.00s
+stress-ng: info:  [331232] setting to a 10 second run per stressor
+stress-ng: info:  [331232] dispatching hogs: 8 cpu
+stress-ng: info:  [331232] successful run completed in 10.32s
+stress-ng: info:  [331547] setting to a 10 second run per stressor
+stress-ng: info:  [331547] dispatching hogs: 8 cpu
+stress-ng: info:  [331547] successful run completed in 10.02s
+stress-ng: info:  [331860] setting to a 10 second run per stressor
+stress-ng: info:  [331860] dispatching hogs: 8 cpu
+stress-ng: info:  [331860] successful run completed in 10.08s
+stress-ng: info:  [332139] setting to a 10 second run per stressor
+stress-ng: info:  [332139] dispatching hogs: 8 cpu
+stress-ng: info:  [332139] successful run completed in 10.10s
+stress-ng: info:  [332448] setting to a 10 second run per stressor
+stress-ng: info:  [332448] dispatching hogs: 8 cpu
+stress-ng: info:  [332448] successful run completed in 10.04s
+stress-ng: info:  [332719] setting to a 10 second run per stressor
+stress-ng: info:  [332719] dispatching hogs: 8 cpu
+stress-ng: info:  [332719] successful run completed in 10.05s
+stress-ng: info:  [333027] setting to a 10 second run per stressor
+stress-ng: info:  [333027] dispatching hogs: 8 cpu
+stress-ng: info:  [333027] successful run completed in 10.04s
+stress-ng: info:  [333314] setting to a 10 second run per stressor
+stress-ng: info:  [333314] dispatching hogs: 8 cpu
+stress-ng: info:  [333314] successful run completed in 10.11s
+stress-ng: info:  [333651] setting to a 10 second run per stressor
+stress-ng: info:  [333651] dispatching hogs: 8 cpu
+stress-ng: info:  [333651] successful run completed in 10.01s
+stress-ng: info:  [333920] setting to a 10 second run per stressor
+stress-ng: info:  [333920] dispatching hogs: 8 cpu
+stress-ng: info:  [333920] successful run completed in 10.02s
